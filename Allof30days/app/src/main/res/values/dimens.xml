@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_dimen">8dp</dimen>
+    <dimen name="medium_dimen">16dp</dimen>
+    <dimen name="width_badge_dimen">75dp</dimen>
+    <dimen name="height_badge_dimen">35dp</dimen>
+    <dimen name="min_height_surface_dimen">128dp</dimen>
+    <dimen name="max_height_surface_dimen">172dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">All of 30 days</string>
+    <string name="day_number">Day %s</string>
+    <string name="calcifer">Calcifer</string>
+    <string name="efiel_tower">Efiel Tower</string>
+    <string name="image1">Image 1</string>
+    <string name="image2">Image 2</string>
+    <string name="image3">Image 3</string>
+    <string name="image4">Image 4</string>
+    <string name="image5">Image 5</string>
+    <string name="image6">Image 6</string>
+    <string name="image7">Image 7</string>
+    <string name="image8">Image 8</string>
+    <string name="image9">Image 9</string>
+    <string name="image10">Image 10</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+</resources>
