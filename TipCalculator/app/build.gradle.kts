@@ -50,6 +50,7 @@ android {
 }
 
 dependencies {
+    implementation("androidx.activity:activity-ktx:1.8.0")
     // Default variable for the compose version
     val composeVersion = "1.5.1"
 
